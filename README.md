@@ -1,6 +1,6 @@
-\# My First Repository
+\## Main Branch Change
+
+This change was made in main branch.
 
 
-
-This repository was created as part of a Git practice task.
 
