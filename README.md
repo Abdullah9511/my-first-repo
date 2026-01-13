@@ -1,6 +1,6 @@
-\# My First Repository
+\## Conflict Branch Change
+
+This change was made in conflict-branch.
 
 
-
-This repository was created as part of a Git practice task.
 
